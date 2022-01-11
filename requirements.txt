@@ -1,0 +1,11 @@
+Keras==2.2.1
+matplotlib==2.1.2
+moviepy==1.0.3
+numpy==1.19.5
+opencv_python==3.2.0.6
+Pillow==9.0.0
+pypng==0.0.21
+scipy==1.0.0
+skimage==0.0
+tensorflow==2.7.0
+tensorflow_gpu==1.8.0
