@@ -61,6 +61,9 @@ Built in python. ML frameworks like Tensorflow and Keras were majorly used. An i
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
+Get the checkpoints for running the flownet from this [Link](https://drive.google.com/drive/folders/1An-SCJ06zd94vAV1kphRw1h1Nl6itmYE?usp=sharing)
+Download the entire folder and put it in the same directory.
+
 In utils.py
 ```python
 data_dir = "your_folder\\training\\frames"
